@@ -6,7 +6,3 @@ export const userStateValue = atom({
     default: {}, // default value (aka initial value)
   });
 
-export const refState = atom({
-    key:'refState',
-    default: createRef()
-})
