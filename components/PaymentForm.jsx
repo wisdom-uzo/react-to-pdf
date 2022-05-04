@@ -5,7 +5,6 @@ import ConvertToPdf from './ConvertToPdf';
 import { useRecoilState } from 'recoil';
 import { userStateValue } from '../Store/State';
 import { PDFDownloadLink } from '@react-pdf/renderer';
-import ReactPdf from './ReactPdf';
 
 const PaymentForm = () => {
     
