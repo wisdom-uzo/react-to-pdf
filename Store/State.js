@@ -1,4 +1,3 @@
-import { createRef } from "react";
 import { atom } from "recoil";
 
 export const userStateValue = atom({
